@@ -11,6 +11,12 @@ This list should be followed in this order.
   - [ ] 1. [Getting started](https://doc.rust-lang.org/book/ch01-00-getting-started.html)
   - [ ] 2. [Hands-on project](https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html)
   - [ ] 4. [Ownership](https://doc.rust-lang.org/book/ch04-00-understanding-ownership.html)
+- [ ] Memory management
+  - [ ] [Demystifying memory management in modern programming languages](https://deepu.tech/memory-management-in-programming/)
+  - [ ] [What’s the difference between a stack and a heap?](http://www.programmerinterview.com/data-structures/difference-between-stack-and-heap/)
+  - [ ] [Relevant SO](https://stackoverflow.com/questions/79923/what-and-where-are-the-stack-and-heap)
+  - [ ] [Relevant Reddit](https://www.reddit.com/r/rust/comments/8kt5eq/ownership_vs_the_stack_and_heap/)
+  - [ ] Write some simple code (Fibonacci?) and look how it works on [Python Tutor](http://pythontutor.com/)
 - [ ] [Rustlings](https://github.com/rust-lang/rustlings) are a collection of small exercises
 - [ ] Build something
 - [ ] Setup the tools
