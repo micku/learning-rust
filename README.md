@@ -18,9 +18,9 @@ This list should be followed in this order.
   - [ ] [Relevant Reddit](https://www.reddit.com/r/rust/comments/8kt5eq/ownership_vs_the_stack_and_heap/)
   - [ ] Write some simple code (Fibonacci?) and look how it works on [Python Tutor](http://pythontutor.com/)
 - [ ] [Rustlings](https://github.com/rust-lang/rustlings) are a collection of small exercises
-- [ ] Build something
 - [ ] Setup the tools
   - [ ] [The Book tools](https://doc.rust-lang.org/book/appendix-04-useful-development-tools.html)
+- [ ] Build something
 
 ## Other resources
 
