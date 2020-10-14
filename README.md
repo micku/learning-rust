@@ -35,6 +35,7 @@ Here is an unordered list of resources found on the internet, at some point thes
 - [Rust Design Patterns](https://github.com/rust-unofficial/patterns) 👈
 - [Vim ❤️ Rust](https://www.reddit.com/r/rust/comments/adepau/guide_to_turn_neovim_into_a_rust_ide/)
 - [Rust Learning](https://github.com/ctjhoa/rust-learning) is a list of Rust learning resources
+- [TCP/IP Fundamentals](https://lowlvl.org/) is a course that teaches "how to work with the UDP and TCP internet protocols in real-world scenarios" directly on the browser.
 
 ## Bonus
 
