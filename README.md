@@ -6,18 +6,20 @@ This repo contains resources gathered on the internet and tracks my path trough 
 
 This list should be followed in this order.
 
-- [ ] [The Book](https://doc.rust-lang.org/book/) first chapters  
-      Following chapters will be used as a reference when needed
+- [ ] [The Book](https://doc.rust-lang.org/book/) -pt.1- first chapters and [Rustlings](https://github.com/rust-lang/rustlings)  
   - [x] 1. [Getting started](https://doc.rust-lang.org/book/ch01-00-getting-started.html)
   - [x] 2. [Hands-on project](https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html)
-  - [ ] 4. [Ownership](https://doc.rust-lang.org/book/ch04-00-understanding-ownership.html)
+  - [ ] 3. [Common Programming Concepts](https://doc.rust-lang.org/book/ch03-00-common-programming-concepts.html) (Rustlings: [variables](https://github.com/rust-lang/rustlings/tree/main/exercises/variables), [functions](https://github.com/rust-lang/rustlings/tree/main/exercises/functions), [if](https://github.com/rust-lang/rustlings/tree/main/exercises/if), [primitive_types](https://github.com/rust-lang/rustlings/tree/main/exercises/primitive_types))
+  - [ ] 4. [Ownership](https://doc.rust-lang.org/book/ch04-00-understanding-ownership.html) (Rustlings: [primitive_types](https://github.com/rust-lang/rustlings/tree/main/exercises/primitive_types), [move_semantics](https://github.com/rust-lang/rustlings/tree/main/exercises/move_semantics))
 - [ ] Memory management
   - [ ] [Demystifying memory management in modern programming languages](https://deepu.tech/memory-management-in-programming/)
   - [ ] [What’s the difference between a stack and a heap?](http://www.programmerinterview.com/data-structures/difference-between-stack-and-heap/)
   - [ ] [Relevant SO](https://stackoverflow.com/questions/79923/what-and-where-are-the-stack-and-heap)
   - [ ] [Relevant Reddit](https://www.reddit.com/r/rust/comments/8kt5eq/ownership_vs_the_stack_and_heap/)
   - [ ] Write some simple code (Fibonacci?) and look how it works on [Python Tutor](http://pythontutor.com/)
-- [ ] [Rustlings](https://github.com/rust-lang/rustlings) are a collection of small exercises
+- [ ] [The Book](https://doc.rust-lang.org/book/) -pt.2- and [Rustlings](https://github.com/rust-lang/rustlings)  
+  - [ ] 5. [Using Structs to Structure Related Data](https://doc.rust-lang.org/book/ch05-00-structs.html) (Rustlings: [structs](https://doc.rust-lang.org/book/ch05-00-structs.html))
+  - [ ] 6. [Enums and Pattern Matching](https://doc.rust-lang.org/book/ch06-00-enums.html) (Rustlings: [enums](https://github.com/rust-lang/rustlings/tree/main/exercises/enums))
 - [ ] Setup the tools
   - [ ] [The Book tools](https://doc.rust-lang.org/book/appendix-04-useful-development-tools.html)
 - [ ] Build something
