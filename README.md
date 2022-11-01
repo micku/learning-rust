@@ -9,7 +9,7 @@ This list should be followed in this order.
 - [ ] [The Book](https://doc.rust-lang.org/book/) first chapters  
       Following chapters will be used as a reference when needed
   - [x] 1. [Getting started](https://doc.rust-lang.org/book/ch01-00-getting-started.html)
-  - [ ] 2. [Hands-on project](https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html)
+  - [x] 2. [Hands-on project](https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html)
   - [ ] 4. [Ownership](https://doc.rust-lang.org/book/ch04-00-understanding-ownership.html)
 - [ ] Memory management
   - [ ] [Demystifying memory management in modern programming languages](https://deepu.tech/memory-management-in-programming/)
